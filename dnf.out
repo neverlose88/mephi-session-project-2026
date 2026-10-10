@@ -1,0 +1,6 @@
+ID Command line                            Date and time       Action(s) Altered
+ 5 dnf install -y nginx libcap-ng-utils    2026-10-10 09:21:10                 5
+ 4 dnf upgrade -y                          2026-10-10 09:15:47              1689
+ 3 dnf5daemon-server                       2026-10-10 09:00:23                11
+ 2 dnf5 --config /kiwi_dnf5.config -y --di 2026-04-22 14:00:43              1721
+ 1 dnf5 --config /builddir/result/image/bu 2026-04-22 13:58:52               278
